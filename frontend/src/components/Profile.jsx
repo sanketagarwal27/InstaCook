@@ -141,12 +141,6 @@ const Profile = () => {
               <span className="stat-label">following</span>
             </div>
           </div>
-          <div className="more-content-in-Profile">
-            <p>This is my post</p>
-            <p>This is my post</p>
-            <p>This is my post</p>
-            <p>This is my post</p>
-          </div>
         </div>
       </div>
       <div className="Profile-content-section">
