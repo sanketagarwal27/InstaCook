@@ -1,0 +1,25 @@
+{
+  "name": "insta_clone_mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"cd frontend && npm run dev\" \"cd backend && npm run dev\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanketagarwal27/InstaCook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sanketagarwal27/InstaCook/issues"
+  },
+  "homepage": "https://github.com/sanketagarwal27/InstaCook#readme",
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
