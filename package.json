@@ -21,5 +21,9 @@
   "homepage": "https://github.com/sanketagarwal27/InstaCook#readme",
   "dependencies": {
     "concurrently": "^9.2.1"
-  }
+  },
+  "workspaces": [
+    "backend",
+    "frontend"
+  ]
 }
