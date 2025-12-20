@@ -65,7 +65,7 @@ To ensure the app feels "snappy", I used Redux to manage global state, ensuring 
 
 ## Author
 
-**### Sanket Agarwal:**
+**Sanket Agarwal:**
 
 - [LinkedIn](https://linkedin.com/in/sanket-agarwal-b7b7a731b)
 - [Email](mailto:sanketagarwal314@gmail.com)
