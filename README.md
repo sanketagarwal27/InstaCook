@@ -67,5 +67,5 @@ To ensure the app feels "snappy", I used Redux to manage global state, ensuring 
 
 **Sanket Agarwal:**
 
-- [LinkedIn](www.linkedin.com/in/sanket-agarwal-b7b7a731b)
+- [LinkedIn](https://www.linkedin.com/in/sanket-agarwal-b7b7a731b/)
 - [Email](mailto:sanketagarwal314@gmail.com)
