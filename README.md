@@ -8,7 +8,9 @@
 
 - **Dynamic Social Feed:** Implemented a personalized home feed that fetches and displays posts from followed users in real-time.
 - **Media Management:** Integrated Cloudinary for secure image uploads and optimized delivery.
-- **User Interaction Engine:** \* Real-time **Likes** and **Comments** functionality.
+- **Profile Update:** Added the feature to update user profile picture, bio, name and other details.
+- **User Interaction Engine:**
+  - Real-time **Likes** and **Comments** functionality.
   - Robust **Follow/Unfollow** system managing user relationships.
 - **Instant UI Feedback:** Optimized user experience with optimistic updates and loading states.
 
@@ -42,7 +44,7 @@ To ensure the app feels "snappy", I used Redux to manage global state, ensuring 
 1. **Clone the repo:**
 
    ```bash
-   git clone [https://github.com/sanketagarwal27/InstaCook.git](https://github.com/sanketagarwal27/InstaCook.git)
+   git clone https://github.com/sanketagarwal27/InstaCook.git
    ```
 
 2. **Install Dependencies:**
@@ -60,3 +62,10 @@ To ensure the app feels "snappy", I used Redux to manage global state, ensuring 
    ```bash
    npm run dev
    ```
+
+## Author
+
+**### Sanket Agarwal:**
+
+- [LinkedIn](https://linkedin.com/in/sanket-agarwal-b7b7a731b)
+- [Email](mailto:sanketagarwal314@gmail.com)
